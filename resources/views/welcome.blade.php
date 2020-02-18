@@ -74,7 +74,7 @@
                     <img src="{{ asset('laravel-service-container.png') }}" alt="laravel-service-container" class="img-fluid">
                 </div>
                 <div class="link">
-                    <a href="https://medium.com/@jeriatno/laravel-fractal-cbe9745e14f4" target="_blank">Visit this article...</a>
+                    <a href="https://medium.com/@jeriatno/laravel-service-container-f387967101f3" target="_blank">Visit this article...</a>
                 </div>
             </div>
         </div>

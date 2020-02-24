@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+// testing custom Facade
+Route::get('/myfacade', function () {
+    return MyHelper::hello();
+});
